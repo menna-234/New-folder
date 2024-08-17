@@ -1,0 +1,11 @@
+.home{
+    background-image: url("../img/˚⭑·\ ͟͟͞͞➳\ ᴬⁱ\ ᴬʳᵗ\ \(1\).jpg");
+    height: 100vh;
+    background-position: center; 
+    background-size: cover;
+}
+.demo{
+    width: 900px;
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
